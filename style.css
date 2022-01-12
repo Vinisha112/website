@@ -1,0 +1,44 @@
+body
+{
+  text-align: center;
+  background-color: white;
+}
+img
+{
+  border-radius: 25px;
+  border: 2px;
+  width: 500;
+  height: 600;
+  position: left;
+}
+nav
+{
+  background-color: black;
+    font-style: italic;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.container
+{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+h1
+{
+  font-style: italic;
+  color: red;
+}
